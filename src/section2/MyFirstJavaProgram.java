@@ -8,7 +8,10 @@ public class MyFirstJavaProgram {
 	public static void main(String[] args) {
 		
 		// START HERE
-	
+		//type name assign valie
+		int name = hello world;
+		System.out.println();
+	System.out.println(name);
 		
 		
 	}
